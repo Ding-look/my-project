@@ -1,0 +1,14 @@
+[
+  {
+    "prop": "user_name",
+    "label": "用户",
+    "width": "",
+    "align": "auto"
+  },
+  {
+    "prop": "email",
+    "label": "邮箱",
+    "width": "",
+    "align": "auto"
+  }
+]

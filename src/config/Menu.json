@@ -1,0 +1,45 @@
+[
+  {
+    "path": "/user",
+    "title": "账号字典",
+    "authority": [
+      "1"
+    ],
+    "iconfont": "el-icon-collection"
+  },
+  {
+    "path": "/account",
+    "title": "账号管理",
+    "authority": [
+      "1"
+    ],
+    "iconfont": "el-icon-edit-outline"
+  },
+  {
+    "path": "/analysis",
+    "title": "数据统计",
+    "authority": [
+      "1",
+      "2"
+    ],
+    "iconfont": "el-icon-data-analysis",
+    "children": [
+      {
+        "path": "/analysis/effect",
+        "title": "效果分析",
+        "authority": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "path": "/analysis/material",
+        "title": "素材排行榜",
+        "authority": [
+          "1",
+          "2"
+        ]
+      }
+    ]
+  }
+]
